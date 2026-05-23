@@ -1,0 +1,11 @@
+# Mengabaikan folder hasil build kompilasi lokal
+target/
+
+# Mengabaikan riwayat log lokal
+*.log
+jshell.history
+
+# Mengabaikan pengaturan privat IDE lokal
+.vscode/
+nbproject/private/
+build/
